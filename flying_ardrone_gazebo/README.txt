@@ -1,1 +1,1 @@
-This project focus on the initial setup of the Gazebo open-source simulator and the Robot Operating System (ROS), where you will y a quadrotor from its starting location to two checkpoints.
+This project focus on the initial setup of the Gazebo open-source simulator and the Robot Operating System (ROS), where you will fly a quadrotor from its starting location to two checkpoints.
